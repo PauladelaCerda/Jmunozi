@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jmunozi
-- 👀 I’m interested in journalism, workflow, news tools, and much more.
+- 👀 I’m interested in journalism, workflow, news tools, and more.
 - 🌱 I’m currently learning python and C#
 
 
