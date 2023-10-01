@@ -1,0 +1,12 @@
+.profile{
+    border-radius: 2rem;
+}
+
+div.separador{
+    height: 15px;
+}
+
+.listado{
+    text-align: left;
+    list-style: square inside;
+}
